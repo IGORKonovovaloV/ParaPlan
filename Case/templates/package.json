@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-untitled-page_6-macbook_pro_16_-_41",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}

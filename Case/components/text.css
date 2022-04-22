@@ -1,0 +1,23 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+.text-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: relative;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text-root-class-name {
+  top: 38px;
+  left: 1181px;
+  position: absolute;
+}
